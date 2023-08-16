@@ -1,3 +1,5 @@
+'use client';
+
 import { TaskProps, convertStatusToString } from "../models/Task";
 import { deleteTask, archiveTask } from "../service/TaskService";
 import Link from "next/link";
