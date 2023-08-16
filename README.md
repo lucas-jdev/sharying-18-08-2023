@@ -17,10 +17,12 @@ Foi apresentado na logique sistemas em momento de compartilhamento de conhecimen
 - Typescript
 - React
 - Jest
+- Testing Library
 
 ## 📢Requisitos para rodar o projeto
 
 - Java 8
+- Node 16.13.2
 
 ## 📗Como estudar
 
