@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Foi apresentado na logique sistemas em momento de compartilhamento de conhecimento uma apresentação sobre TDD e unitários a stack Java.
+Foi apresentado na logique sistemas em momento de compartilhamento de conhecimento uma apresentação sobre TDD e unitários na stack Java React.
 
 ## 📝Tecnologias
 
@@ -15,8 +15,8 @@ Foi apresentado na logique sistemas em momento de compartilhamento de conhecimen
 #### Frontend
 
 - Typescript
-- React
 - Jest
+- Next
 - Testing Library
 
 ## 📢Requisitos para rodar o projeto
